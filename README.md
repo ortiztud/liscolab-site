@@ -1,4 +1,5 @@
-# [Hugo Research Group Theme](https://github.com/wowchemy/starter-hugo-research-group)
+# UNDER CONSTRUCTIONS
+Playing around with different options here
 
 [![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/)
 
