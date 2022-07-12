@@ -1,4 +1,4 @@
-# UNDER CONSTRUCTIONS
+# UNDER CONSTRUCTION
 Playing around with different options here
 
 [![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/)
